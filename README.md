@@ -5,8 +5,7 @@ Please follow these steps to send your enrollment request to enroll in our organ
 
 1. Click on the `Issues` button and then click on the `New issue` green button to **create a new issue**.
 2. Enter your **Student ID** and your **English Name (e.g. Xiang Xuan) Not your NICKNAME (e.g. Jack, Michael, etc.)** in the issue body. (**If you are interested in our maintenance team, Please also mention in it**).
-3. Please **label your issue** as `help wanted` so that we can quickly filter out your request from issues.
-4. Don't forget to submit ^^.
+3. Don't forget to submit ^^.
 
 ![Issue](README.assets/Issue.png)
 
