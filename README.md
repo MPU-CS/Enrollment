@@ -3,10 +3,10 @@ This repository is an enrollment entrance for this organization.
 
 Please follow these steps to send your enrollment request to enroll in our organization:
 
-1. Click on the `Issue` button and create a new issue
-2. Enter your **Student ID** and your **English Name** in the issue body
-3. Please label your issue as `help wanted` so that we can quickly filter out your request from issues
-4. Don't forget to submit ^^
+1. Click on the `Issue` button and create a new issue.
+2. Enter your **Student ID** and your **English Name (e.g. Xiang Xuan) Not your NICKNAME (e.g. Jack, Michael, etc.)** in the issue body.
+3. Please **label your issue** as `help wanted` so that we can quickly filter out your request from issues. (**If you are interested in our maintenance team, Please also mention in it**).
+4. Don't forget to submit ^^.
 
 ![Issue](README.assets/Issue.png)
 
